@@ -84,19 +84,6 @@ Images are from [Unsplash](https://unsplash.com)
 
 
 
-### Pre-Requisites:
-1. Install Git Version Control
-[ https://git-scm.com/ ]
-
-2. Install Python Latest Version
-[ https://www.python.org/downloads/ ]
-
-3. Install Pip (Package Manager)
-[ https://pip.pypa.io/en/stable/installing/ ]
-
-*Alternative to Pip is Homebrew*
-
-
 ### Installation
 **1. Create a Folder where you want to save the project**
 
@@ -210,15 +197,6 @@ Password: staff
 *For Student*
 Email: student@student.com
 Password: student
-
-
-
-## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
-
-
 
 ## How the system works
 Administrator is required to have created candidates. 
